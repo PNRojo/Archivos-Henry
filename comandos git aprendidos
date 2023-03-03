@@ -3,3 +3,5 @@ git status
 git add
 git commit
 git log
+git clone https
+git push origin main
